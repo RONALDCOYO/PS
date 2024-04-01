@@ -8,9 +8,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 
-
-//TODO
-
 @RequiredArgsConstructor
 @RestController //Decirle que esta clase es administrada o controlada por SPRING
 @RequestMapping("/clientes") //Agregar una ruta para la clase
